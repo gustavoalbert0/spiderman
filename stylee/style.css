@@ -73,8 +73,8 @@ h2{
 }
 
 img{
-  height: 250px;
-  width: 800px;
+  width: 80%;
+  height: 275px;
   margin: auto;
   border-radius: 10px;
   display: block;/* para a imagem ficar no meio da tela*/
